@@ -1,0 +1,13 @@
+{
+  "chrome_url_overrides": {
+    "newtab": "blank.html"
+  },
+  "description": "Blank new tab page. Supports OS dark mode.",
+  "icons": {
+    "128": "icon-128.png",
+    "38": "icon-38.png"
+  },
+  "manifest_version": 3,
+  "name": "Blank New Tab Page - Dark mode support",
+  "version": "0.1"
+}
