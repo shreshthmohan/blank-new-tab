@@ -1,5 +1,9 @@
 # blank-new-tab
 
+## Demo
+![new-tab](https://github.com/shreshthmohan/blank-new-tab/assets/5955802/a070c75e-a755-4e39-b0b4-2ae3b3167c56)
+
+
 ## Installation
 
 **The only way to install the extension right now is manually since it's under review.**
