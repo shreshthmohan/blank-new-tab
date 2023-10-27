@@ -2,7 +2,7 @@
 
 ## Installation
 
-The only way to install the extension right now is manually since it's under review.
+**The only way to install the extension right now is manually since it's under review.**
 
 1. Download the [zip](https://github.com/shreshthmohan/blank-new-tab/archive/refs/heads/main.zip) from GitHub.
 2. Extract the zip. 
